@@ -1,2 +1,2 @@
-# teaching_examples
+# Teaching Examples
 A repo of short teaching examples
